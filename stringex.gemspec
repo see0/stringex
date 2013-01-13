@@ -214,17 +214,7 @@ Gem::Specification.new do |s|
     "lib/stringex/unidecoder_data/xfe.yml",
     "lib/stringex/unidecoder_data/xff.yml",
     "lib/stringex/version.rb",
-    "stringex.gemspec",
-    "test/acts_as_url_test.rb",
-    "test/bad_unidecoder_localization.yml",
-    "test/string_extensions_test.rb",
-    "test/unicode_point_suite/basic_greek_test.rb",
-    "test/unicode_point_suite/basic_latin_test.rb",
-    "test/unicode_point_suite/codepoint_test_helper.rb",
-    "test/unidecoder_localization.yml",
-    "test/unidecoder_localization_alias_test.rb",
-    "test/unidecoder_localization_test.rb",
-    "test/unidecoder_test.rb"
+    "stringex.gemspec"
   ]
   s.homepage = "http://github.com/rsl/stringex"
   s.rdoc_options = ["--main", "README.rdoc", "--charset", "utf-8", "--line-numbers"]
